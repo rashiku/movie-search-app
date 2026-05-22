@@ -9,7 +9,6 @@ movies_metadata.csv
 # Optional generated files
 *.npy
 *.bin
-*.pkl
 
 # Streamlit secrets
 .streamlit/secrets.toml
